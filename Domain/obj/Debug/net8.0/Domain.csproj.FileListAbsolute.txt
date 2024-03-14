@@ -1,0 +1,15 @@
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\CODE\hypersloth\hades\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\CODE\hypersloth\hades\Domain\bin\Debug\net8.0\Domain.dll
+C:\CODE\hypersloth\hades\Domain\bin\Debug\net8.0\Domain.pdb
+C:\CODE\hypersloth\hades\Domain\bin\Debug\net8.0\Repository.dll
+C:\CODE\hypersloth\hades\Domain\bin\Debug\net8.0\Repository.pdb
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.dll
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.pdb
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\CODE\hypersloth\hades\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date

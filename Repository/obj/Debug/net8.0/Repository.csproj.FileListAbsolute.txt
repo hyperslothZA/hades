@@ -1,0 +1,12 @@
+C:\CODE\hypersloth\hades\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\CODE\hypersloth\hades\Repository\bin\Debug\net8.0\Repository.dll
+C:\CODE\hypersloth\hades\Repository\bin\Debug\net8.0\Repository.pdb
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.dll
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.pdb
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\CODE\hypersloth\hades\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
